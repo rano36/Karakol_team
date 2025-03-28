@@ -3,15 +3,22 @@ package Akylai_codingbat;
 public class Array3_fix45 {
 
     public int[] fix45(int[] nums) {
-        int n;
-        for (int i = 0; i < nums.length; i++){
-            for(int j = 0; j < nums.length; j++){
-                if(nums[i] == 5 && nums[j] == 4){
-                    n = nums[j + 1];
-                    nums[j + 1] = nums[i];
-                    nums[i] = n;
-                }
+        int i = 0;
+        int j = 0;
+
+        while (j < nums.length && nums[j] != 5) {
+            j++;
+        }
+        while (i < nums.length) {
+            if (nums[i] == 4) {
+                int temp = nums[i + 1];
+                nums[i + 1] = nums[j];
+                nums[j] = temp;
+
+                while ((j < nums.length && nums[j] != 5) || j == i + 1)
+                    j++;
             }
+            i++;
         }
         return nums;
     }

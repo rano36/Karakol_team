@@ -1,4 +1,4 @@
-package com.digital_nomads.rano.String_1;
+package rano.String_1;
 
 public class MakeTags {
     public String makeTags(String tag, String word) {

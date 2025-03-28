@@ -1,7 +1,6 @@
-package String_1;
+package com.digital_nomads.rano.String_1;
 
 public class MakeTags {
-
     public String makeTags(String tag, String word) {
     return "<" + tag + ">" + word + "</" + tag + ">";
     }

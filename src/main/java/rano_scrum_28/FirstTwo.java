@@ -1,4 +1,4 @@
-package scrum_28;
+package rano_scrum_28;
 
 public class FirstTwo {
     public String firstTwo(String str) {

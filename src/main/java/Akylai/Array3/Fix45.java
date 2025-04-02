@@ -1,7 +1,6 @@
-package Akylai_codingbat;
+package Akylai.Array3;
 
-public class Array3_fix45 {
-
+public class Fix45 {
     public int[] fix45(int[] nums) {
         int i = 0;
         int j = 0;

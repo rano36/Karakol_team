@@ -1,4 +1,4 @@
-package rano_scrum_28;
+package scrum_28;
 
 public class WithoutEnd {
     public String withoutEnd(String str) {

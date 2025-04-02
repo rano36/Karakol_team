@@ -1,4 +1,4 @@
-package string_1;
+package rano_branch.string_1.scrum_55;
 
 public class NTwice {
     public String nTwice(String str, int n) {

@@ -1,4 +1,4 @@
-package Akylai_codingbat.Map1;
+package Akylai.Map1;
 
 import java.util.Map;
 

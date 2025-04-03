@@ -1,6 +1,6 @@
-package Akylai_codingbat;
+package Akylai.Array3;
 
-public class Array3_canBalance {
+public class CanBalance {
     public boolean canBalance(int[] nums) {
         int totalSum = 0;
         for (int num : nums) {

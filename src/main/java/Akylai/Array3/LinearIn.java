@@ -1,6 +1,6 @@
-package Akylai_codingbat;
+package Akylai.Array3;
 
-public class Array3_linearIn {
+public class LinearIn {
     public boolean linearIn(int[] outer, int[] inner) {
         int i = 0, j = 0;
         while (i < outer.length && j < inner.length) {

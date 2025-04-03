@@ -1,6 +1,6 @@
-package Akylai_codingbat;
+package Akylai.Array3;
 
-public class Array3_squareUp {
+public class SquareUp {
     public int[] squareUp(int n) {
         int[] result = new int[n * n];
         for (int i = 0; i < n; i++) {

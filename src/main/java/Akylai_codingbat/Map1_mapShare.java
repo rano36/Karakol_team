@@ -1,8 +1,8 @@
-package Akylai_codingbat.Map1;
+package Akylai_codingbat;
 
 import java.util.Map;
 
-public class MapShare {
+public class Map1_mapShare {
     public Map<String, String> mapShare(Map<String, String> map) {
         if (map.containsKey("a")) {
             map.put("b", map.get("a"));

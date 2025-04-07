@@ -1,8 +1,8 @@
-package Akylai_codingbat;
+package Akylai.Map1;
 
 import java.util.Map;
 
-public class Map1_mapAB {
+public class MapAB {
     public Map<String, String> mapAB(Map<String, String> map) {
         if (map.containsKey("a") && map.containsKey("b")) {
             map.put("ab", map.get("a") + map.get("b"));

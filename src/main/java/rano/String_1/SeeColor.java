@@ -1,4 +1,4 @@
-package rano.string_1.scrum_89;
+package rano.String_1;
 
 public class SeeColor {
     public String seeColor(String str) {

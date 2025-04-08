@@ -1,4 +1,4 @@
-package Akylai.Map1;
+package akylai.map1;
 
 import java.util.Map;
 

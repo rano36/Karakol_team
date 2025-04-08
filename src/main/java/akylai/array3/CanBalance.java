@@ -1,4 +1,4 @@
-package Akylai.Array3;
+package akylai.array3;
 
 public class CanBalance {
     public boolean canBalance(int[] nums) {

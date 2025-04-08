@@ -1,4 +1,4 @@
-package Akylai.map2;
+package akylai.map2;
 
 import java.util.Map;
 import java.util.TreeMap;

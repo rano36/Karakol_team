@@ -1,4 +1,4 @@
-package rano_string_1;
+package rano.String_1;
 
 public class EndsLy {
     public boolean endsLy(String str) {

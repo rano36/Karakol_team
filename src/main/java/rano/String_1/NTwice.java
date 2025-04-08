@@ -1,4 +1,4 @@
-package rano_string_1;
+package rano.String_1;
 
 public class NTwice {
     public String nTwice(String str, int n) {

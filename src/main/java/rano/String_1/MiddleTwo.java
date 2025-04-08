@@ -1,4 +1,4 @@
-package rano_string_1;
+package rano.String_1;
 
 public class MiddleTwo {
     public String middleTwo(String str) {

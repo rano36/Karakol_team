@@ -1,4 +1,4 @@
-package string_1;
+package rano.String_1;
 
 public class ComboString {
     public String comboString(String a, String b){

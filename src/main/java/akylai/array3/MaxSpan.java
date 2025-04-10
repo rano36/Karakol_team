@@ -1,6 +1,6 @@
-package Akylai_codingbat;
+package akylai.array3;
 
-public class Array3_maxSpan {
+public class MaxSpan {
 
     public int maxSpan(int[] nums) {
         int maxSpan = 0;

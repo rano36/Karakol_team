@@ -1,11 +1,9 @@
-package Akylai_codingbat;
+package akylai.array3;
 
-public class Array3_fix45 {
-
+public class Fix45 {
     public int[] fix45(int[] nums) {
         int i = 0;
         int j = 0;
-
         while (j < nums.length && nums[j] != 5) {
             j++;
         }

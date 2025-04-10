@@ -1,7 +1,6 @@
-package Akylai_codingbat;
+package akylai.array3;
 
-public class Array3_fix34 {
-
+public class Fix34 {
     public int[] fix34(int[] nums) {
         int t;
         for (int i = 0; i < nums.length; i++) {

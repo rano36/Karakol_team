@@ -1,4 +1,4 @@
-package Akylai.Array3;
+package akylai.array3;
 
 public class LinearIn {
     public boolean linearIn(int[] outer, int[] inner) {

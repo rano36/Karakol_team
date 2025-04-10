@@ -1,4 +1,4 @@
-package Akylai.map2;
+package akylai.map2;
 
 import java.util.HashMap;
 import java.util.Map;

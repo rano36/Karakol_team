@@ -1,4 +1,4 @@
-package Aiperi.warm_up1;
+package aiperi.warm_up1;
 
 public class Close10 {
     public int close10(int a, int b) {

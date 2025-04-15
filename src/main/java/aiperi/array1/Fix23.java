@@ -1,4 +1,4 @@
-package Aiperi.array1;
+package aiperi.array1;
 
 public class Fix23 {
     public int[] fix23(int[] nums) {

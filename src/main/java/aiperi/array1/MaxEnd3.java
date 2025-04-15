@@ -1,4 +1,4 @@
-package Aiperi.array1;
+package aiperi.array1;
 
 public class MaxEnd3 {
     public int[] maxEnd3(int[] nums) {

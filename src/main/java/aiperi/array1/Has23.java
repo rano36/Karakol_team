@@ -1,4 +1,4 @@
-package Aiperi.array1;
+package aiperi.array1;
 
 public class Has23 {
     public boolean has23(int[] nums) {

@@ -1,4 +1,4 @@
-package Aiperi.array1;
+package aiperi.array1;
 
 public class CommonEnd {
     public boolean commonEnd(int[] a, int[] b) {

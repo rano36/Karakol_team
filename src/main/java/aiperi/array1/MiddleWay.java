@@ -1,4 +1,4 @@
-package Aiperi.array1;
+package aiperi.array1;
 
 public class MiddleWay {
     public int[] middleWay(int[] a, int[] b) {

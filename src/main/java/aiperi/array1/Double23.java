@@ -1,4 +1,4 @@
-package Aiperi.array1;
+package aiperi.array1;
 
 public class Double23 {
     public boolean double23(int[] nums) {

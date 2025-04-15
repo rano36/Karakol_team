@@ -1,4 +1,4 @@
-package Aiperi.array1;
+package aiperi.array1;
 
 public class FirstLast6 {
     public boolean firstLast6(int[] nums) {

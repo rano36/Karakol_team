@@ -1,4 +1,4 @@
-package Aiperi.array1;
+package aiperi.array1;
 
 public class makeEnds {
     public int[] makeEnds(int[] nums) {

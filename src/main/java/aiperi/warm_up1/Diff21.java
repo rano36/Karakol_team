@@ -1,4 +1,4 @@
-package Aiperi.warm_up1;
+package aiperi.warm_up1;
 
 public class Diff21 {
     public int diff21(int n) {

@@ -1,4 +1,4 @@
-package Aiperi.warm_up1;
+package aiperi.warm_up1;
 
 public class BackAround {
         public String backAround(String str) {

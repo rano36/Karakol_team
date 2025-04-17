@@ -1,4 +1,4 @@
-package begayim;
+package begayim.app1;
 
 public class AP1 {
 

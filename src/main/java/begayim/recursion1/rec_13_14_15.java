@@ -19,7 +19,7 @@ public class rec_13_14_15 {
         }
         if (str.charAt(0) == 'x'){
             return noX(str.substring(1));
-        }else {
+        } else {
             return str.charAt(0) + noX(str.substring(1));
         }
     }

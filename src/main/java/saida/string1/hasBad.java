@@ -1,4 +1,4 @@
-package Saida.String1;
+package saida.string1;
 
 public class hasBad {
     public boolean hasBad(String str) {

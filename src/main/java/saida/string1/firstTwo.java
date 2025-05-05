@@ -1,4 +1,4 @@
-package Saida.String1;
+package saida.string1;
 
 public class firstTwo {
     public String firstTwo(String str) {
